@@ -1,6 +1,6 @@
 # incident-simulation-GenAI
 
-##General Steps
+## General Steps
 
 Go to directory.
 
