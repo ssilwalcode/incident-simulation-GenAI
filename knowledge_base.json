@@ -1,0 +1,17 @@
+{
+    "CEO": {
+        "keywords": ["sales decline", "legal", "market share", "customer trust", "brand reputation"],
+        "focus": "Business impact, sales, and brand reputation.",
+        "concerns": "Customer trust, legal implications, and market share."
+    },
+    "CTO": {
+        "keywords": ["technical", "database", "ML model", "architecture", "software update"],
+        "focus": "Technical architecture, database management, and ML models.",
+        "concerns": "System stability, data integrity, and software updates."
+    },
+    "Assistant": {
+        "keywords": ["code", "log analysis", "troubleshooting", "bug", "deployment"],
+        "focus": "Code updates, log analysis, and troubleshooting.",
+        "concerns": "Bug fixes, system patches, and deployment to prod."
+    }
+}
